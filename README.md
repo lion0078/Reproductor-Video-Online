@@ -1,4 +1,4 @@
-# Reproductor de Video Online
+# Reproductor de Video Online and Local
 
 ![Banner](https://i.imgur.com/l3d49Ts.png)
 
